@@ -1,0 +1,18 @@
+[
+	{
+		"file": "C:\\Users\\admin\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\admin\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.0.rsp"
+		],
+		"directory": "D:\\UE_5.8\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\admin\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\admin\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.0.rsp"
+		],
+		"directory": "D:\\UE_5.8\\Engine\\Source"
+	}
+]
